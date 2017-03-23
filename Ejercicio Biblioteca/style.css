@@ -1,0 +1,15 @@
+label{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+input{
+    width: 20%;
+}
+#boton{
+    width: 100px;
+}
+body{
+    margin: 30px;
+}
